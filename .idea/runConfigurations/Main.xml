@@ -1,7 +1,9 @@
-<configuration name="Main" type="Application" factoryName="Application" temporary="true">
-  <option name="MAIN_CLASS_NAME" value="Main" />
-  <module name="javaaaa" />
-  <method v="2">
-    <option name="Make" enabled="true" />
-  </method>
-</configuration>
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Main" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Main" />
+    <module name="Java59" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
